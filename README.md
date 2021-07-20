@@ -1,4 +1,4 @@
-# selenium_python_pytest
+# selenium_python_pytest (dev)
 
 Pre-req - Install Java, Python, set python path, download chromedriver, set chromedriver path in Envt. Variable
 	 
