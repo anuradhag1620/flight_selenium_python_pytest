@@ -1,5 +1,7 @@
 # selenium_python_pytest (dev)
 
+Developed using Python, Selenium, Pytest, Page Object Model, HTML Reports
+
 Pre-req - Install Java, Python, set python path, download chromedriver, set chromedriver path in Envt. Variable
 	 
 To install packages, use pip command -
